@@ -1,0 +1,13 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - heading "Automata" [level=1] [ref=e9]
+    - paragraph [ref=e10]: Sign in to your account
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - text: Email
+      - textbox "admin@automata.local" [ref=e13]
+    - generic [ref=e14]:
+      - text: Password
+      - textbox "••••••••" [ref=e15]
+    - button "Sign in" [ref=e16] [cursor=pointer]
+  - paragraph [ref=e17]: "Demo: admin@automata.local / password123"

@@ -79,7 +79,7 @@ async function handleLogin() {
 
       <!-- Footer -->
       <p class="text-center text-xs text-muted-foreground">
-        Demo: admin@automata.local / password123
+        admin@automata.local / automata-admin
       </p>
     </div>
   </div>

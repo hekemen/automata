@@ -1,0 +1,34 @@
+- generic [ref=f12e3]:
+  - complementary [ref=f12e4]:
+    - generic [ref=f12e5]:
+      - generic [ref=f12e8]: Automata
+      - button [ref=f12e9] [cursor=pointer]
+    - navigation [ref=f12e11]:
+      - list [ref=f12e12]:
+        - listitem [ref=f12e13]:
+          - link "Dashboard" [ref=f12e14] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f12e21]:
+          - link "Contacts" [ref=f12e22] [cursor=pointer]:
+            - /url: /contacts
+        - listitem [ref=f12e29]:
+          - link "Forms" [ref=f12e30] [cursor=pointer]:
+            - /url: /forms
+        - listitem [ref=f12e35]:
+          - link "Banners" [ref=f12e36] [cursor=pointer]:
+            - /url: /banners
+        - listitem [ref=f12e42]:
+          - link "Tracking" [ref=f12e43] [cursor=pointer]:
+            - /url: /tracking
+    - generic [ref=f12e47]: Automata v0.1.0
+  - generic [ref=f12e48]:
+    - banner [ref=f12e49]:
+      - button [ref=f12e50] [cursor=pointer]
+      - heading "Automata" [level=1] [ref=f12e52]
+      - generic [ref=f12e53]:
+        - button [ref=f12e54] [cursor=pointer]
+        - button [ref=f12e59] [cursor=pointer]
+        - button "U User" [ref=f12e63] [cursor=pointer]:
+          - generic [ref=f12e64]: U
+          - generic [ref=f12e65]: User
+    - main [ref=f12e68]
